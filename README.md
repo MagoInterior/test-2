@@ -5,6 +5,13 @@
 <img src="https://github.com/nipuna15/nipuna15/raw/main/Moxiepic.jpg" alt="animated" width="500" height="300" />
 </p>
 
+
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/test-2)](https://repl.it/github/MagoInterior/test-2) 
+
+
+
 <p align="center">
 Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/nipuna15" target="_blank"></a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
